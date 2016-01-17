@@ -1,5 +1,5 @@
 title: A Sample Chapter
-author: Michael DiBernardo
+author: Kamil Młynarczyk
 
 ## Introduction
 
