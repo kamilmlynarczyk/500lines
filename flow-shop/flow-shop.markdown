@@ -1,5 +1,5 @@
 title: A Flow Shop Scheduler
-author: Dr. Christian Muise
+author: Dr. Christian 
 
 _[Dr. Christian Muise](http://haz.ca) is a Research Fellow with the [MERS group](http://groups.csail.mit.edu/mers/) at [MIT's CSAIL](http://www.csail.mit.edu/). He is interested in a variety of topics including AI, data-driven projects, mapping, graph theory, and data visualization, as well as celtic music, carving, soccer, and coffee._
 
